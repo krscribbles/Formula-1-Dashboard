@@ -1,4 +1,5 @@
 import fastf1
+import sqlite3
 import pandas as pd
 
 schedule = fastf1.get_event_schedule(2025)
@@ -39,5 +40,18 @@ for _, race in schedule.iloc[1:].iterrows():
 
 historical_df = pd.DataFrame(all_results)
 
-print(historical_df.shape)
-print(historical_df.head())
+conn = sqlite3.connect("f1_live_data.db")
+
+historical_df.to_sql(
+    "historical_results",
+    conn,
+    if_exists="replace",
+    index=False
+)
+
+check_df = pd.read_sql(
+    "SELECT * FROM historical_results",
+    conn
+)
+
+print(check_df.shape)
