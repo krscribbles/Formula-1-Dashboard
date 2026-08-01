@@ -1,0 +1,36 @@
+Driver,Team,Races,AvgGrid,AvgFinish,TotalPoints,Wins,Podiums,AvgPositionsGained,WinPercentage,PodiumPercentage,ExpectedFinish,WinProbability,PodiumProbability,PerformanceScore
+Alexander Albon,Williams,91,13.25,12.96,111.0,0,0,0.3,0.0,0.0,12.96,0.0,0.0,63.9
+Andrea Kimi Antonelli,Mercedes,24,8.75,9.83,135.0,0,3,-1.08,0.0,12.5,9.83,0.0,12.5,79.17
+Antonio Giovinazzi,Alfa Romeo Racing,22,12.82,13.09,3.0,0,0,0.33,0.0,0.0,13.09,0.0,0.0,15.15
+Carlos Sainz,Williams,113,7.12,8.0,885.5,4,27,-0.88,3.54,23.89,8.0,3.54,23.89,420.96
+Charles Leclerc,Ferrari,114,5.24,6.52,1187.0,6,38,-1.28,5.26,33.33,6.52,5.26,33.33,559.49
+Daniel Ricciardo,RB,69,11.54,11.51,161.0,1,1,0.03,1.45,1.45,11.51,1.45,1.45,88.44
+Esteban Ocon,Haas F1 Team,113,12.28,11.54,276.0,1,3,0.97,0.88,2.65,11.54,0.88,2.65,140.66
+Fernando Alonso,Aston Martin,114,9.31,9.93,481.0,0,9,-0.62,0.0,7.89,9.93,0.0,7.89,234.52
+Franco Colapinto,Alpine,27,16.3,15.22,5.0,0,0,1.07,0.0,0.0,15.22,0.0,0.0,13.76
+Gabriel Bortoleto,Kick Sauber,24,14.21,14.25,19.0,0,0,-0.04,0.0,0.0,14.25,0.0,0.0,20.72
+George Russell,Mercedes,114,6.91,7.59,950.0,5,24,-0.56,4.39,21.05,7.59,4.39,21.05,450.5
+Guanyu Zhou,Kick Sauber,68,15.59,14.65,16.0,0,0,1.18,0.0,0.0,14.65,0.0,0.0,19.48
+Isack Hadjar,Racing Bulls,24,9.79,11.79,50.0,0,1,-2.0,0.0,4.17,11.79,0.0,4.17,37.18
+Jack Doohan,Alpine,7,15.71,16.14,0.0,0,0,0.0,0.0,0.0,16.14,0.0,0.0,9.82
+Kevin Magnussen,Haas F1 Team,66,13.92,14.36,38.0,0,0,-0.2,0.0,0.0,14.36,0.0,0.0,29.05
+Kimi Räikkönen,Alfa Romeo Racing,20,13.4,13.2,10.0,0,0,1.89,0.0,0.0,13.2,0.0,0.0,18.94
+Lance Stroll,Aston Martin,113,13.46,12.41,173.0,0,0,1.31,0.0,0.0,12.41,0.0,0.0,92.99
+Lando Norris,McLaren,114,5.75,6.39,1198.0,11,43,-0.64,9.65,37.72,6.39,9.65,37.72,566.02
+Lewis Hamilton,Ferrari,114,6.86,6.27,1177.5,10,37,0.59,8.77,32.46,6.27,8.77,32.46,556.89
+Liam Lawson,Racing Bulls,35,12.69,12.83,44.0,0,0,-0.14,0.0,0.0,12.83,0.0,0.0,33.69
+Logan Sargeant,Williams,36,16.94,16.33,1.0,0,0,0.61,0.0,0.0,16.33,0.0,0.0,10.34
+Max Verstappen,Red Bull Racing,114,3.32,3.25,2139.5,61,85,0.07,53.51,74.56,3.25,53.51,74.56,1004.22
+Mick Schumacher,Haas F1 Team,44,15.7,15.56,12.0,0,0,0.14,0.0,0.0,15.56,0.0,0.0,16.02
+Nicholas Latifi,Williams,44,16.36,15.89,9.0,0,0,0.86,0.0,0.0,15.89,0.0,0.0,14.62
+Nico Hulkenberg,Kick Sauber,72,13.1,12.99,93.0,0,1,0.11,0.0,1.39,12.99,0.0,1.39,55.81
+Nikita Mazepin,Haas F1 Team,22,18.43,17.76,0.0,0,0,0.67,0.0,0.0,17.76,0.0,0.0,8.13
+Nyck De Vries,AlphaTauri,11,15.82,15.27,2.0,0,0,0.55,0.0,0.0,15.27,0.0,0.0,12.08
+Oliver Bearman,Haas F1 Team,27,13.96,11.56,46.0,0,0,2.41,0.0,0.0,11.56,0.0,0.0,37.46
+Oscar Piastri,McLaren,70,5.91,6.63,728.0,9,26,-0.71,12.86,37.14,6.63,12.86,37.14,354.6
+Pierre Gasly,Alpine,114,11.04,12.05,247.0,0,3,-0.68,0.0,2.63,12.05,0.0,2.63,126.01
+Robert Kubica,Alfa Romeo Racing,2,16.5,14.5,0.0,0,0,0.0,0.0,0.0,14.5,0.0,0.0,11.88
+Sebastian Vettel,Aston Martin,42,11.86,11.76,80.0,0,1,0.9,0.0,2.38,11.76,0.0,2.38,51.99
+Sergio Perez,Red Bull Racing,90,7.02,7.17,879.0,5,29,0.41,5.56,32.22,7.17,5.56,32.22,420.85
+Valtteri Bottas,Kick Sauber,90,11.32,12.4,276.0,1,11,-0.97,1.11,12.22,12.4,1.11,12.22,139.6
+Yuki Tsunoda,Red Bull Racing,114,12.26,13.32,108.0,0,0,-0.53,0.0,0.0,13.32,0.0,0.0,61.68
