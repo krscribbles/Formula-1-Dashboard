@@ -117,16 +117,21 @@ Power BI Dashboard (.pbix)
 
 ---
 
+## Dashboard Preview
+
 ## Screenshot Preview
 
-| Image 1 | Image 2 |
-|---|---|
-| `![Driver Standings](<img width="4000" height="2233" alt="image" src="https://github.com/user-attachments/assets/4ccc61a0-b4f9-4171-83d9-25f813a45c91" />
-)` | `![Constructor Analysis](<img width="4000" height="2229" alt="image" src="https://github.com/user-attachments/assets/7c34f5d5-6773-4c99-bde5-9a15a34231ac" />
-)` |
-| `![Driver Comparison](<img width="4000" height="2219" alt="image" src="https://github.com/user-attachments/assets/9d27b76d-13cf-4192-9003-fff3d3c8a5bd" />
-)` | `![Predictive Insights](<img width="3987" height="2240" alt="image" src="https://github.com/user-attachments/assets/e2e16203-7b55-4014-bfdc-38956207ff45" />
-)` |
+Make sure there is a blank line here.
+
+| Driver Standings | Constructor Analysis |
+| :---: | :---: |
+| <img width="4000" alt="Driver Standings" src="https://github.com/user-attachments/assets/4ccc61a0-b4f9-4171-83d9-25f813a45c91" /> | <img width="4000" alt="Constructor Analysis" src="https://github.com/user-attachments/assets/7c34f5d5-6773-4c99-bde5-9a15a34231ac" /> |
+
+| Driver Comparison | Predictive Insights |
+| :---: | :---: |
+| <img width="4000" alt="Driver Comparison" src="https://github.com/user-attachments/assets/9d27b76d-13cf-4192-9003-fff3d3c8a5bd" /> | <img width="3987" alt="Predictive Insights" src="https://github.com/user-attachments/assets/e2e16203-7b55-4014-bfdc-38956207ff45" /> |
+
+Make sure there is a blank line here.
 
 
 
