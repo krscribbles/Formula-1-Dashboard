@@ -123,7 +123,7 @@ Power BI Dashboard (.pbix)
 
 Make sure there is a blank line here.
 
-| Driver Standings | Constructor Analysis |
+| Driver Standings | Team Analysis |
 | :---: | :---: |
 | <img width="4000" alt="Driver Standings" src="https://github.com/user-attachments/assets/4ccc61a0-b4f9-4171-83d9-25f813a45c91" /> | <img width="4000" alt="Constructor Analysis" src="https://github.com/user-attachments/assets/7c34f5d5-6773-4c99-bde5-9a15a34231ac" /> |
 
