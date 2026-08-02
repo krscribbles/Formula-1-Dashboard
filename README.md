@@ -121,8 +121,12 @@ Power BI Dashboard (.pbix)
 
 | Image 1 | Image 2 |
 |---|---|
-| `![Driver Standings](images/Formula 1 Dashboard_page-0001.jpg)` | `![Constructor Analysis](images/Formula 1 Dashboard_page-0002.jpg)` |
-| `![Driver Comparison](images/Formula 1 Dashboard_page-0003.jpg)` | `![Predictive Insights](images/Formula 1 Dashboard_page-0004.jpg)` |
+| `![Driver Standings](<img width="4000" height="2233" alt="image" src="https://github.com/user-attachments/assets/4ccc61a0-b4f9-4171-83d9-25f813a45c91" />
+)` | `![Constructor Analysis](<img width="4000" height="2229" alt="image" src="https://github.com/user-attachments/assets/7c34f5d5-6773-4c99-bde5-9a15a34231ac" />
+)` |
+| `![Driver Comparison](<img width="4000" height="2219" alt="image" src="https://github.com/user-attachments/assets/9d27b76d-13cf-4192-9003-fff3d3c8a5bd" />
+)` | `![Predictive Insights](<img width="3987" height="2240" alt="image" src="https://github.com/user-attachments/assets/e2e16203-7b55-4014-bfdc-38956207ff45" />
+)` |
 
 
 
